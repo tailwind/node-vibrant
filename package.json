@@ -1,5 +1,5 @@
 {
-  "name": "node-vibrant",
+  "name": "@tailwind/node-vibrant",
   "version": "3.2.0",
   "description": "Extract prominent colors from an image. Supports both node and browser environment.",
   "main": "lib/index.js",
